@@ -38,6 +38,8 @@ Content Strategy Analysis is a comprehensive process that involves examining and
 
 # Dashboard Overview
 
+netflix1_020832.jpg
+
  - KPI Cards
    - Total Releases
    - Total Viewership Hours
