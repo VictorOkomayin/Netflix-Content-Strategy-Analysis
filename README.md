@@ -84,6 +84,6 @@ The success of any media platform, whether for business or personal use, largely
     # About the Analyst
  Seré Victor Okomayin is a passionate and detail-oriented data practitioner, an ambassador of the Data Global Hub community driving data literacy and responsible AI usage around the globe. Victor helps individuals and businesses leverage the power of data by building intuitive and interactive data products that aids informed decisions. 
 
- Let's connect 
+ Let's connect:
 
- ![LinkedIn](https://www.linkedin.com/in/victorokomayin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ #[LinkedIn](https://www.linkedin.com/in/victorokomayin?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
