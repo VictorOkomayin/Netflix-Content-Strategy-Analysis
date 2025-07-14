@@ -38,7 +38,7 @@ Content Strategy Analysis is a comprehensive process that involves examining and
 
 # Dashboard Overview
 
-netflix1_020832.jpg
+![](https://github.com/VictorOkomayin/Files/blob/main/netflix1_020832.jpg)
 
  - KPI Cards
    - Total Releases
