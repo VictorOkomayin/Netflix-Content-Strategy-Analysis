@@ -1,4 +1,5 @@
 # Netflix-Content-Strategy-Analysis
+![](https://github.com/VictorOkomayin/Files/blob/main/images%20(4).png)
 
 ## Project Details
 - Title: Netflix Content Strategy Analysis 
