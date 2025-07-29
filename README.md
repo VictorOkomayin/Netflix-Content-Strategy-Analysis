@@ -64,7 +64,7 @@ Content Strategy Analysis is a comprehensive process that involves examining and
    - Weekend viewership: Fridays, Thursdays, and Wednesdays al see high viewership hours indicating a strong audience engagement through the week.
    
 - Content Type Performance
-   - Shows outperform movies: TV showsSeas account for 68.29% of total viewership hours, movies account for 31.71%. This suggests s that Netflix audiences prefer shows over movies, possibly due to their ability to provide relaxation and entertainment.
+   - Shows outperform movies: TV shows account for 68.29% of total viewership hours, movies account for 31.71%. This suggests s that Netflix audiences prefer shows over movies, possibly due to their ability to provide relaxation and entertainment.
    
 - Viewership Patterns
    - Peak months: March, October, November and December see significant spikes in viewership hours, likely due to holidays and seasonal breaks.
